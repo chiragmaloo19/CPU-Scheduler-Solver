@@ -1,4 +1,4 @@
--- Developed by Sumit & Chirag 
+-- Developed by Chirag & Sumit  
 
 Setup and Run Instructions
 ==========================
